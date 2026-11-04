@@ -2,8 +2,8 @@
 
 ## 🎓 $ I'm Owen
 
-I'm a second-year cybersecurity student at the University of Chester.
-I spend a lot of time in Linux, building tools for my own workflow.
+I'm a second-year cybersecurity student at the University of Chester. 
+
 
 ## 🖥️ $ Programming languages
 
