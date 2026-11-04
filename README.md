@@ -26,7 +26,7 @@ I spend a lot of time in Linux, building tools for my own workflow.
 
 ## 🛠️ $ My workflow
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30" />  · 🖥️ Hyprland · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="tmux" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="30" height="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hyprland.svg" alt="Hyprland" width="30" height="30" /> · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="tmux" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="30" height="30" /> 
 
 ## 🌱 $ Things I'm working on
 
