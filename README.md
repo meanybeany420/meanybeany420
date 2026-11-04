@@ -1,6 +1,6 @@
 # $ Hello 👋
 
-## 🎓 $ I'm Owen a second-year cybersecurity student at the University of Chester. 
+## 🎓 $ I'm Owen, a second-year cybersecurity student at the University of Chester. 
 
 
 
