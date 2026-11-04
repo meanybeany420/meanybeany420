@@ -1,13 +1,12 @@
 # $ Hello 👋
 
-## 🎓 $ I'm Owen
+## 🎓 $ I'm Owen a second-year cybersecurity student at the University of Chester. 
 
-I'm a second-year cybersecurity student at the University of Chester. 
 
 
 ## 🖥️ $ Programming languages
 
-<!-- Provisional skill levels: replace these guesses with your own assessment before publishing. -->
+
 | Proficiency | Languages |
 | --- | --- |
 | Proficient | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30" height="30" />  · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="30" height="30" />  |
