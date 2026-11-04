@@ -18,11 +18,11 @@ I spend a lot of time in Linux, building tools for my own workflow.
 
 | Area | Tools |
 | --- | --- |
-| Terminal interfaces | 🔐 Wish · 🧋 Bubble Tea · 💄 Lip Gloss |
-| Java desktop development | 🖥️ Swing · 🔌 JDBC |
+| Cybersecurity | <img src="https://gitlab.com/kalilinux/packages/kali-menu/-/raw/kali/master/menu-icons/scalable/apps/kali-nmap.svg" alt="Nmap" title="Nmap" width="30" height="30" /> · <img src="https://gitlab.com/kalilinux/packages/kali-menu/-/raw/kali/master/menu-icons/scalable/apps/kali-wireshark.svg" alt="Wireshark" title="Wireshark" width="30" height="30" /> · <img src="https://gitlab.com/kalilinux/packages/kali-menu/-/raw/kali/master/menu-icons/scalable/apps/kali-metasploit-framework.svg" alt="Metasploit" title="Metasploit" width="30" height="30" /> · <img src="https://gitlab.com/kalilinux/packages/kali-menu/-/raw/kali/master/menu-icons/scalable/apps/kali-ghidra.svg" alt="Ghidra" title="Ghidra" width="30" height="30" /> · <img src="https://gitlab.com/kalilinux/packages/kali-menu/-/raw/kali/master/menu-icons/scalable/apps/kali-binwalk.svg" alt="Binwalk" title="Binwalk" width="30" height="30" /> |
 | Databases | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" />  |
 | Editor tooling | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="30" height="30" />  · 🧠 LSP · 🌳 Tree-sitter |
 | Development | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="tmux" width="30" height="30" /> tmux · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="30" height="30" /> Bash |
+
 
 ## 🛠️ $ My workflow
 
